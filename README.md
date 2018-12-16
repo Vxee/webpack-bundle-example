@@ -1,6 +1,6 @@
 # webpack-bundle-example
 
-##GET START
+## GET START
 
 `npm install`
 `node bundle.js`
